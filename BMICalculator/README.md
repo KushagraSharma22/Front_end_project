@@ -6,13 +6,3 @@ This project is built using:-
  ●HTML5 (Structuring)  
  ●CSS3 (Styling)  
  ●Javascript (Server side scripting)    
- ●Git/GitHub (Version control)  
- ●Netlify (Hosting) 
-
- ## Direct Link
- https://frontendprojects.netlify.app/projects/bmicalculator/
- 
- ## Sample Output
-
-![Screenshot (59)](https://github.com/krutika-ladani/Front-End-Projects/assets/119760273/64374759-fb66-46b3-bee0-72524df070d6)
-
